@@ -14,14 +14,14 @@
 
   <title>Trang chủ</title>
 
-  <link href="/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="static/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
   <!-- Bootstrap v5.0.1 -->
-  <link href="/css/bootstrap.css" type="text/css" rel="stylesheet">
-  <script src="/js/bootstrap.bundle.js" type="text/javascript"></script>
+  <link href="static/css/bootstrap.css" type="text/css" rel="stylesheet">
+  <script src="static/js/bootstrap.bundle.js" type="text/javascript"></script>
 
   <!-- Bootstrap Icons v1.5.0 -->
-  <link href="/css/bootstrap-icons.css" type="text/css" rel="stylesheet">
+  <link href="static/css/bootstrap-icons.css" type="text/css" rel="stylesheet">
 
   <!-- Custom Styles -->
   <link href="css/styles.css" type="text/css" rel="stylesheet">
